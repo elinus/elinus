@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey!, I'm Sunil 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/sunilmourya_0xf?style=social)](https://twitter.com/intent/follow?screen_name=sunilmourya_0xf)
+[![Linkedin: Sunil](https://img.shields.io/badge/-Sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunilmourya/)](https://www.linkedin.com/in/sunilmourya/)
+![GitHub followers](https://img.shields.io/github/followers/elinus?label=Follow&style=social)
+
 
 <!--
 **elinus/elinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
