@@ -1,6 +1,4 @@
 # Hey!, I'm Sunil 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinus&theme=vision-friendly-dark&&layout=compact&langs_count=6&count_private=true)
-<br>
 [![Linkedin: Sunil](https://img.shields.io/badge/-Sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunilmourya/)](https://www.linkedin.com/in/sunilmourya/)
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/elinus?label=Follow&style=social)
