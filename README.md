@@ -1,69 +1,64 @@
-# 👋 Hi, I'm **Sunil Mourya**
+<h1 style="font-family: 'Inter', 'Segoe UI', Roboto, sans-serif; font-weight: 700; color:#4F8EF7;">👋 Hi, I'm Sunil</h1>
 
-[![LinkedIn: Sunil Maurya](https://img.shields.io/badge/-Sunil%20Maurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunilmourya/)](https://www.linkedin.com/in/sunilmourya/)
-![Profile Views](https://komarev.com/ghpvc/?username=elinus&color=brightgreen)
+<p>
+  <a href="https://www.linkedin.com/in/sunilmourya/">
+    <img src="https://img.shields.io/badge/-Sunil%20Mourya-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=elinus&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me  
-**Rust & Backend Developer | 12+ Years of Software Engineering Experience**
+**Rust & Backend Developer | 13+ Years in Software Engineering**
 
-I’m a results-driven engineer passionate about building **high-performance backend systems** and **scalable architectures** using **Rust** and **C++**.  
-With a solid background across system programming, Android frameworks, and modern backend APIs, I bring a balance of **deep technical insight** and **real-world product delivery**.
+Experienced in building **high-performance systems** and **scalable backends** using **Rust**, **C++**, and **Python**.  
+Strong foundation in **system programming**, **concurrency**, and **API development** — blending performance with simplicity.
 
-💼 **Worked at:** Renault Nissan (RNTBCI), Philips, Samsung R&D, Infosys  
-🏆 **Awards:** Samsung Best Paper Award (Bronze), Samsung Excellence Award, Super Tech Award  
-🔬 **Patents:** Application Launching Probability, Resource Performance Configuration  
-
----
-
-### 🦀 What I Do
-- 🚀 Develop **Rust-based backends** using **Actix Web** and **Axum**  
-- ⚙️ Design **secure REST APIs** and **real-time WebSocket servers**  
-- 🧩 Work on **performance optimization** and **concurrent systems**  
-- ☁️ Integrate backend logic with **AWS**, **SQLite**, and **custom frameworks**  
-- 🔄 Deliver production-grade **freelance Rust solutions** with a focus on scalability and maintainability  
+💼 **Renault Nissan | Philips | Samsung R&D | Infosys**  
+🏆 **Samsung Best Paper Award (Bronze)** · **Samsung Excellence Award**  
+🔬 **2 Patents:** System Intelligence · Performance Optimization  
 
 ---
 
-### 🧰 Tech Stack  
-**Languages:**  
-`Rust` · `C++ (98/11)` · `Python` · `C` · `Java (Core)` · `C#`  
-
-**Frameworks & Tools:**  
-`Actix Web` · `Axum` · `JNI` · `SQLite` · `Multithreading` · `REST APIs` · `AWS` · `Git` · `Linux/Windows`  
-
-**Specialties:**  
-Backend Architecture · Systems Programming · Async Concurrency · Performance Tuning  
+### 🦀 Core Expertise  
+🦾 Rust-based backend systems (**Actix Web**, **Axum**)  
+🌐 REST APIs · WebSockets · Async Concurrency  
+⚙️ Performance tuning & systems programming  
+☁️ AWS · SQLite · Git · Linux/Windows  
 
 ---
 
-### 🧠 Professional Experience  
-- **Freelance Rust Developer** — *2024–Present*  
-- **Renault Group** — *2023–2024*  
-- **Philips** — *2021–2023*  
-- **Samsung R&D Institute** — *2013–2021*  
-- **Infosys** — *2011–2013*   
+### 💼 Experience  
+| Role | Company | Duration |
+|------|----------|-----------|
+| 🦀 Freelance Rust Developer | Self-employed | 2024–Present |
+| 🚗 Technical Lead | Renault Group | 2023–2024 |
+| 🏥 Software Technologist II | Philips | 2021–2023 |
+| 📱 Chief/Senior Engineer | Samsung R&D Institute | 2013–2021 |
+| 💻 System Engineer | Infosys | 2011–2013 |
 
 ---
 
 ### 🎓 Education  
-**B.Tech — Computer Science & Engineering**  
+🎓 **B.Tech — Computer Science & Engineering**  
 *National Institute of Technology, Patna*  
 
 ---
 
-### ⚡ Fun Facts  
-☕ I co-own a **vegetarian café** in Lucknow.  
-🏃 Training for a **half marathon (1h45m goal)**.  
-🐾 Love **cats, travel**, and quiet creative spaces.  
+### ⚡ Beyond Code  
+☕ Co-owner of a **vegetarian café** in Lucknow  
+🏃 Training for a **half marathon**  
+🐾 Cat lover & minimalist traveler  
 
 ---
 
-### 📈 GitHub Highlights  
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=elinus&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinus&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinus&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
 ---
 
-⭐️ _“Clean code, clear mind — simplicity is the ultimate performance boost.”_
+<p align="center" style="font-family: 'Inter', 'Segoe UI', Roboto, sans-serif; font-size: 16px;">
+  ⭐️ <em>“Clean code, clear mind — simplicity is the ultimate performance boost.”</em>
+</p>
